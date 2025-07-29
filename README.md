@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 📊 Mechanical Design, Manufacturing and Automation - Shandong University
-- 📌 
+- 📌
 
 ---
 
@@ -13,22 +13,15 @@
 
 ## 📬 Reach Me
 
-
 ## Github summary
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ts-sound&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-&nbsp;
-
-&emsp;&emsp;&emsp;&ensp; <a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ts-sound&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" />
-</a>
-
-&nbsp;
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ts-sound&show_icons=true&include_all_commits=true&theme=buefy" alt="Ts-sound's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-sound&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ts-sound&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Ts-sound/cartographer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ts-sound&repo=cartographer&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/Ts-sound.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ts-sound&repo=Ts-sound.github.io&theme=buefy" />
