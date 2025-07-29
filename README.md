@@ -13,15 +13,16 @@
 
 ## 📬 Reach Me
 
-| <a href="https://github.com/Ts-sound/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ts-sound&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Ts-sound/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-sound&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ts-sound&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-sound&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Top Repositories
 
-<a href="https://github.com/Ts-sound/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ts-sound&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/Ts-sound/Ts-sound.github.io">
+<a href="https://github.com/anuraghazra/Ts-sound.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ts-sound&repo=Ts-sound.github.io&theme=buefy" />
 </a>
 
