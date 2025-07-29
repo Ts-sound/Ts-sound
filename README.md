@@ -50,8 +50,6 @@ mobaxterm , WinSCP , WireShark, VMware
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ts-sound&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Ts-sound's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-sound&layout=compact&theme=vue-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Ts-sound's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ts-sound)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Top Repositories
 
 <a href="https://github.com/Ts-sound/cartographer">
