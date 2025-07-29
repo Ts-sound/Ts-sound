@@ -14,8 +14,16 @@
 ## 📬 Reach Me
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ts-sound&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-sound&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## Github summary
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ts-sound&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+&nbsp;
+
+&emsp;&emsp;&emsp;&ensp; <a href="https://github.com/anuraghazra/convoychat">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ts-sound&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" />
+</a>
+
+&nbsp;
 
 ## Top Repositories
 
