@@ -36,7 +36,8 @@
 
 Jupyter , vscode , Visual Studio , Eclipse
 
-mobaxterm , WinSCP , WireShark, VMware
+win tools : mobaxterm , WinSCP , WireShark, VMware , Ecantools , netassist , sscom
+linux tools : .
 
 ### Hardware-driven dev
 
