@@ -1,8 +1,8 @@
-# Hansen Tong
-
-> 🤖 Embedded/Robotics System Engineer | AGV Control System Specialist
+# Hi 👋
 
 ## 🚀 About Me
+
+> 🤖 Embedded/Robotics System Engineer | AGV Control System Specialist
 
 - 📊 **Education**: Mechanical Design, Manufacturing and Automation · Shandong University
 - 🌐 **Personal Website**: https://ts-sound.github.io/
