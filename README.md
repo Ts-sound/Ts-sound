@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-> 🤖 Embedded/Robotics System Engineer | AGV Control System Specialist
+> 🤖 Embedded/Robotics System Engineer | AGV/Robotics Control System Specialist
 
 - 📊 **Education**: Mechanical Design, Manufacturing and Automation · Shandong University
 - 🌐 **Personal Website**: https://ts-sound.github.io/
@@ -12,10 +12,10 @@
 ### Core Competencies
 
 - 🏗️ **System Architecture**: Proficient in C/C++/Python, familiar with Linux/STM32 development environments, ROS2 framework (scheduler/lifecycle/ros_control)
-- 🔌 **Communication Protocols**: CAN/CANopen, EtherCAT (<10μs jitter), Modbus, RS485/232, SPI, MQTT
-- 🎯 **Motion Control**: Differential/dual-steerable/Ackerman models, PID/MPC control algorithms, Kalman filtering
+- 🔌 **Communication Protocols**: CAN/CANopen, EtherCAT, Modbus, RS485/232, SPI, MQTT
+- 🎯 **Motion Control**: Differential/dual-steerable/Ackerman models, PID/Pure Pursuit control algorithms, common filtering algorithms
 - 🤖 **Robotics Systems**: gomros core module development (thread pool/component startup/version management), SLAM algorithm integration (GTSAM/Cartographer)
-- ⚡ **Real-time Optimization**: RT_PREEMPT/Xenomai patches, Linux kernel tuning (CPU isolation/memory lock/direct NIC access)
+- ⚡ **Real-time Optimization**: RT_PREEMPT/Xenomai patches, Linux kernel tuning (CPU isolation & frequency pinning/memory lock/direct NIC access)
 - 🚀 **DevOps**: Jenkins+Docker+CMake cross-compilation (x64/arm64), component version management and automated deployment
 
 ---
@@ -89,7 +89,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-**Proficiency**: C/C++ (Proficient) > Python (Proficient) > Java/JavaScript/Rust (Familiar)
+**Proficiency**: C/C++ (Proficient) > Python (Proficient) > Rust (Familiar)
 
 ### Development Tools
 
@@ -105,16 +105,14 @@
 
 **IDE/Editors**: VS Code, Visual Studio, Eclipse, Jupyter
 
-**Windows Tools**: MobaXterm, WinSCP, Wireshark, VMware, CANtools, Network Assistant, SSCOM
-
-**Linux Tools**: tmux, htop, iotop, strace, gdb, perf, systemd, CMake, Make
+**Windows Tools**: MobaXterm, WinSCP, Wireshark, VMware, CANtools, NetAssist, SSCOM
 
 ### Hardware Driver Development
 
 #### Communication Protocols
 - **Industrial Buses**: CAN, CANopen, EtherCAT, Modbus RTU/TCP
 - **Serial Communication**: RS485, RS232, SPI, I2C, UART
-- **Network Protocols**: MQTT, TCP/IP, UDP
+- **Network Protocols**: MQTT, JRPC, TCP/UDP
 
 #### Device Types
 - **Actuators**: Servo drives, stepper drivers, BLDC drivers
