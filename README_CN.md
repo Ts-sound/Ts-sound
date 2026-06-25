@@ -13,7 +13,7 @@
 
 - 🏗️ **系统架构**：精通 C/C++、Python，熟悉 Linux/STM32 开发环境，掌握 ROS2 框架（调度器/lifecycle/ros_control）
 - 🔌 **通信协议**：CAN/CANopen、EtherCAT、Modbus、RS485/232、SPI、MQTT
-- 🎯 **运动控制**：差速/双舵轮/阿克曼模型开发，PID/MPC 控制算法，Kalman 滤波算法
+- 🎯 **运动控制**：差速/双舵轮/阿克曼模型开发，PID/Pure Pursuit 控制算法，常见滤波算法
 - 🤖 **机器人系统**：gomros 核心模块开发（线程池/组件化启动/版本管理），SLAM 等算法集成（GTSAM/Cartographer）
 - ⚡ **实时优化**：RT_PREEMPT/Xenomai 实时补丁，Linux 内核调优（锁核定频/内存锁定/网卡直驱）
 - 🚀 **DevOps**：Jenkins+Docker+CMake 多架构交叉编译（x64/arm64），组件版本管理与自动化部署
@@ -89,7 +89,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-**熟练程度**：C/C++（熟练）> Python（熟练）> Java/JavaScript/Rust（熟悉）
+**熟练程度**：C/C++（熟练）> Python（熟练）> Rust（熟悉）
 
 ### 开发工具
 
@@ -107,14 +107,12 @@
 
 **Windows 工具**：MobaXterm、WinSCP、Wireshark、VMware、CANtools、网络调试助手、SSCOM
 
-**Linux 工具**：tmux、htop、iotop、strace、gdb、perf、systemd、CMake、Make
-
 ### 硬件驱动开发
 
 #### 通信协议
 - **工业总线**：CAN、CANopen、EtherCAT、Modbus RTU/TCP
 - **串行通信**：RS485、RS232、SPI、I2C、UART
-- **网络协议**：MQTT、TCP/IP、UDP
+- **网络协议**：MQTT、JRPC、TCP/UDP
 
 #### 设备类型
 - **执行器**：伺服驱动器、步进驱动器、直流无刷驱动器
@@ -134,7 +132,3 @@
 
 ---
 
-## 📊 GitHub 统计
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ts-sound&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Ts-sound's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-sound&layout=compact&theme=vue-dark&hide_border=true&hide=HTML,Shell" /></a> |
-| ------------- | ------------- |
